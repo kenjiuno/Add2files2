@@ -1,0 +1,3 @@
+﻿Add2files2 build
+Add2files2 find *.txt
+Add2files2 find *.txt *.log
